@@ -1,2 +1,3 @@
-# mydrive
-A replica of google drive made with java and react
+<div align="center">
+  <img src="http://vikashgaurav.com/util/download/mydrive.gif" alt="My Drive" width="100%"/>
+</div>
